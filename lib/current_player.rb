@@ -3,3 +3,4 @@ def turn_count
   until turns == 9
     turns += 1
   end
+end
